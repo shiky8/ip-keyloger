@@ -13,4 +13,4 @@ or
 pip install -r requirements.txt
 
 
-i hope you like it   
+i hope you like it :)  
